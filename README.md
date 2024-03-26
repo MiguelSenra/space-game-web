@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pg54093/Jogo%20Espacial%20-%20Web%20-%20Fluxo%20de%20Trabalho/_apis/build/status%2FMiguelSenra.space-game-web?branchName=main)](https://dev.azure.com/pg54093/Jogo%20Espacial%20-%20Web%20-%20Fluxo%20de%20Trabalho/_build/latest?definitionId=5&branchName=main)
 
 # Contributing
 
